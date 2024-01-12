@@ -1,0 +1,14 @@
+C:\Users\Cody Lucero\source\repos\LearningArrays\bin\Debug\net8.0\LearningArrays.exe
+C:\Users\Cody Lucero\source\repos\LearningArrays\bin\Debug\net8.0\LearningArrays.deps.json
+C:\Users\Cody Lucero\source\repos\LearningArrays\bin\Debug\net8.0\LearningArrays.runtimeconfig.json
+C:\Users\Cody Lucero\source\repos\LearningArrays\bin\Debug\net8.0\LearningArrays.dll
+C:\Users\Cody Lucero\source\repos\LearningArrays\bin\Debug\net8.0\LearningArrays.pdb
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.AssemblyInfoInputs.cache
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.AssemblyInfo.cs
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.dll
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\refint\LearningArrays.dll
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.pdb
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\LearningArrays.genruntimeconfig.cache
+C:\Users\Cody Lucero\source\repos\LearningArrays\obj\Debug\net8.0\ref\LearningArrays.dll
