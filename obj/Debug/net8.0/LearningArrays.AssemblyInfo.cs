@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearningArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+279ed966b3286384d03508420287cdc148b6b87a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearningArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearningArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
